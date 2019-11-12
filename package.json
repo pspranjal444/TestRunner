@@ -1,0 +1,19 @@
+{
+  "name": "Test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "appium": "^1.15.1",
+    "appium-uiautomator2-driver": "^1.37.2",
+    "assert": "^2.0.0",
+    "cors": "^2.8.5",
+    "mongoose": "^5.7.8"
+  }
+}
